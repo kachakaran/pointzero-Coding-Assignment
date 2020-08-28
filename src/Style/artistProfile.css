@@ -1,0 +1,57 @@
+.artistProfile {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    flex-direction: row;
+    min-height: 170px;
+    background-color: #292929;
+}
+
+.artistDetails {
+    float: right;
+    margin: 30px 0;
+}
+
+.Name {
+    float: right;
+    margin: 10px;
+    font-size: 24px;
+    font-family: Kiona-Regular;
+    font-weight: 200;
+    color: #ffee00;
+    text-transform: uppercase;
+}
+
+.Profile {
+    object-fit: cover;
+    float: right;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.artistTitle {
+    width:100%;
+    padding: 6px 0;
+    background-color: #55e5ff;
+    font-size: 28px;
+    font-family: Kiona-Regular;
+    text-align: center;
+    color: #01333a;
+}
+.btnBack{
+    cursor: pointer;
+    padding:5px 20px ;
+    transition: ease-in-out .4s;
+    margin: 20px;
+    background-color: transparent;
+    float: left;
+    border:1px solid #55e5ff;
+    color:#55e5ff;
+    font-size: 18px;
+}
+.btnBack:hover{
+    color:#00313a;
+    background-color:#55e5ff ;
+}

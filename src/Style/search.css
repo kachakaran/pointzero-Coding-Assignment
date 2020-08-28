@@ -1,0 +1,15 @@
+
+.SearchList {
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+    padding: 20px;
+    height: 50%;
+  }
+  
+  .btnNav {
+    width: 100px;
+  }
+  .navButtons{
+    margin:30px;
+  }

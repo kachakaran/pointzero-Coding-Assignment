@@ -1,0 +1,12 @@
+.backdrop {
+    height: 100%;
+    width: 100%;
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    left: 0;
+    top: 0; 
+    background-color: #03030375; /* Black w/opacity */
+    overflow: hidden; /* Disable horizontal scroll */
+    transition:all 0.7s ease; 
+    text-align: center;
+  }

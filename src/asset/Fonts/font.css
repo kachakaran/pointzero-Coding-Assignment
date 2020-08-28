@@ -1,0 +1,312 @@
+@font-face {
+  font-family: "Adam";
+ src:url("fonts-set/Adam.otf");
+}
+@font-face {
+  font-family: "aliens";
+ src:url("fonts-set/aliens.ttf");
+}
+@font-face {
+  font-family: "Anime Inept";
+ src:url("fonts-set/Anime Inept.otf");
+}
+@font-face {
+  font-family: "Aquawax Black Trial";
+ src:url("fonts-set/Aquawax Black Trial.ttf");
+}
+@font-face {
+  font-family: "Aquawax Light Trial";
+ src:url("fonts-set/Aquawax Light Trial.ttf");
+}
+@font-face {
+  font-family: "Assassin";
+ src:url("fonts-set/Assassin.ttf");
+}
+@font-face {
+  font-family: "Athiti-Light";
+ src:url("fonts-set/Athiti-Light.ttf");
+}
+@font-face {
+  font-family: "Azonix";
+ src:url("fonts-set/Azonix.otf");
+}
+@font-face {
+  font-family: "Bebas-Regular";
+ src:url("fonts-set/Bebas-Regular.otf");
+}
+@font-face {
+  font-family: "Bebas-Regular";
+ src:url("fonts-set/Bebas-Regular.ttf");
+}
+@font-face {
+  font-family: "Bourbon";
+ src:url("fonts-set/Bourbon.ttf");
+}
+@font-face {
+  font-family: "CODE Bold";
+ src:url("fonts-set/CODE Bold.otf");
+}
+@font-face {
+  font-family: "CODE Light";
+ src:url("fonts-set/CODE Light.otf");
+}
+@font-face {
+  font-family: "Comfortaa-Regular";
+ src:url("fonts-set/Comfortaa-Regular.ttf");
+}
+@font-face {
+  font-family: "Comodo Regular Free";
+ src:url("fonts-set/Comodo Regular Free.otf");
+}
+@font-face {
+  font-family: "Comodo Regular Free";
+ src:url("fonts-set/Comodo Regular Free.ttf");
+}
+@font-face {
+  font-family: "Comodo Vintage Free";
+ src:url("fonts-set/Comodo Vintage Free.otf");
+}
+@font-face {
+  font-family: "Comodo Vintage Free";
+ src:url("fonts-set/Comodo Vintage Free.ttf");
+}
+@font-face {
+  font-family: "coolvetica rg";
+ src:url("fonts-set/coolvetica rg.ttf");
+}
+@font-face {
+  font-family: "corbel";
+ src:url("fonts-set/corbel.ttf");
+}
+@font-face {
+  font-family: "Diavlo_MEDIUM_II";
+ src:url("fonts-set/Diavlo_MEDIUM_II.otf");
+}
+@font-face {
+  font-family: "digital-7 (mono)";
+ src:url("fonts-set/digital-7 (mono).ttf");
+}
+@font-face {
+  font-family: "DroidSans";
+ src:url("fonts-set/DroidSans.ttf");
+}
+@font-face {
+  font-family: "Faxine Sky-bold";
+ src:url("fonts-set/Faxine Sky-bold.ttf");
+}
+@font-face {
+  font-family: "Faxine Sky-bolditalic";
+ src:url("fonts-set/Faxine Sky-bolditalic.ttf");
+}
+@font-face {
+  font-family: "Faxine Sky-italic";
+ src:url("fonts-set/Faxine Sky-italic.ttf");
+}
+@font-face {
+  font-family: "Faxine Sky";
+ src:url("fonts-set/Faxine Sky.ttf");
+}
+@font-face {
+  font-family: "Fishfingers Light";
+ src:url("fonts-set/Fishfingers Light.ttf");
+}
+@font-face {
+  font-family: "GoSpeeds";
+ src:url("fonts-set/GoSpeeds.ttf");
+}
+@font-face {
+  font-family: "HADES";
+ src:url("fonts-set/HADES.otf");
+}
+@font-face {
+  font-family: "HBM";
+ src:url("fonts-set/HBM.ttf");
+}
+@font-face {
+  font-family: "Hwyl fawr Hello";
+ src:url("fonts-set/Hwyl fawr Hello.otf");
+}
+@font-face {
+  font-family: "JosefinSans-Light";
+ src:url("fonts-set/JosefinSans-Light.ttf");
+}
+@font-face {
+  font-family: "JosefinSans-Regular";
+ src:url("fonts-set/JosefinSans-Regular.ttf");
+}
+@font-face {
+  font-family: "JosefinSans-Thin";
+ src:url("fonts-set/JosefinSans-Thin.ttf");
+}
+@font-face {
+  font-family: "Kiona-Itallic";
+ src:url("fonts-set/Kiona-Itallic.ttf");
+}
+@font-face {
+  font-family: "Kiona-Regular";
+ src:url("fonts-set/Kiona-Regular.ttf");
+}
+@font-face {
+  font-family: "LemonMilklight";
+ src:url("fonts-set/LemonMilklight.otf");
+}
+@font-face {
+  font-family: "mangat";
+ src:url("fonts-set/mangat.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Light";
+ src:url("fonts-set/Montserrat-Light.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Medium";
+ src:url("fonts-set/Montserrat-Medium.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+ src:url("fonts-set/Montserrat-Regular.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Thin";
+ src:url("fonts-set/Montserrat-Thin.ttf");
+}
+@font-face {
+  font-family: "Muli-ExtraLight";
+ src:url("fonts-set/Muli-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Muli-Light";
+ src:url("fonts-set/Muli-Light.ttf");
+}
+@font-face {
+  font-family: "Muli-Regular";
+ src:url("fonts-set/Muli-Regular.ttf");
+}
+@font-face {
+  font-family: "nasalization-rg";
+ src:url("fonts-set/nasalization-rg.ttf");
+}
+@font-face {
+  font-family: "Neou";
+ src:url("fonts-set/Neou.otf");
+}
+@font-face {
+  font-family: "NON-LICENSED_Tevegraphy_Bold";
+ src:url("fonts-set/NON-LICENSED_Tevegraphy_Bold.ttf");
+}
+@font-face {
+  font-family: "NON-LICENSED_Tevegraphy_Light";
+ src:url("fonts-set/NON-LICENSED_Tevegraphy_Light.ttf");
+}
+@font-face {
+  font-family: "NON-LICENSED_Tevegraphy_Medium";
+ src:url("fonts-set/NON-LICENSED_Tevegraphy_Medium.ttf");
+}
+@font-face {
+  font-family: "Open 24 Display St";
+ src:url("fonts-set/Open 24 Display St.ttf");
+}
+@font-face {
+  font-family: "Outrun future";
+ src:url("fonts-set/Outrun future.otf");
+}
+@font-face {
+  font-family: "Oxanium-Light";
+ src:url("fonts-set/Oxanium-Light.ttf");
+}
+@font-face {
+  font-family: "PRIMETIME";
+ src:url("fonts-set/PRIMETIME.ttf");
+}
+@font-face {
+  font-family: "PROMETHEUS";
+ src:url("fonts-set/PROMETHEUS.ttf");
+}
+@font-face {
+  font-family: "ratio";
+ src:url("fonts-set/ratio.ttf");
+}
+@font-face {
+  font-family: "roswood";
+ src:url("fonts-set/roswood.ttf");
+}
+@font-face {
+  font-family: "Rounded_Elegance";
+ src:url("fonts-set/Rounded_Elegance.ttf");
+}
+@font-face {
+  font-family: "Sansation_Light";
+ src:url("fonts-set/Sansation_Light.ttf");
+}
+@font-face {
+  font-family: "Sansation_Regular";
+ src:url("fonts-set/Sansation_Regular.ttf");
+}
+@font-face {
+  font-family: "SketchyComic";
+ src:url("fonts-set/SketchyComic.ttf");
+}
+@font-face {
+  font-family: "Sparkler-demo";
+ src:url("fonts-set/Sparkler-demo.ttf");
+}
+@font-face {
+  font-family: "TAPEWORM";
+ src:url("fonts-set/TAPEWORM.TTF");
+}
+@font-face {
+  font-family: "TARYO";
+ src:url("fonts-set/TARYO.ttf");
+}
+@font-face {
+  font-family: "telegrafico_by_ficod";
+ src:url("fonts-set/telegrafico_by_ficod.ttf");
+}
+@font-face {
+  font-family: "TESLA";
+ src:url("fonts-set/TESLA.ttf");
+}
+@font-face {
+  font-family: "TheLightFont";
+ src:url("fonts-set/TheLightFont.otf");
+}
+@font-face {
+  font-family: "TIMESS";
+ src:url("fonts-set/TIMESS.ttf");
+}
+@font-face {
+  font-family: "TOMMY";
+ src:url("fonts-set/TOMMY.TTF");
+}
+@font-face {
+  font-family: "Transformers Movie";
+ src:url("fonts-set/Transformers Movie.ttf");
+}
+@font-face {
+  font-family: "True Lies";
+ src:url("fonts-set/True Lies.ttf");
+}
+@font-face {
+  font-family: "Typo";
+ src:url("fonts-set/Typo.otf");
+}
+@font-face {
+  font-family: "Vanadine Bold";
+ src:url("fonts-set/Vanadine Bold.ttf");
+}
+@font-face {
+  font-family: "Vanadine Regular";
+ src:url("fonts-set/Vanadine Regular.ttf");
+}
+@font-face {
+  font-family: "Voltage";
+ src:url("fonts-set/Voltage.otf");
+}
+@font-face {
+  font-family: "Vonique 43_D";
+ src:url("fonts-set/Vonique 43_D.otf");
+}
+@font-face {
+  font-family: "winds";
+ src:url("fonts-set/winds.ttf");
+}

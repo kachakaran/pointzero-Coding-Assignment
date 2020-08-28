@@ -1,0 +1,48 @@
+@import "../asset/Fonts/font.css";
+.artist {
+    width: 320px;
+    transition: ease-in-out .3s;
+    margin: 10px;
+    background: #f5f5f5;
+    position: relative;
+}
+
+.artist:hover {
+    box-shadow: 0 0px 18px 0 #0000003d;
+}
+
+.artistName {
+    margin: 40px 12px;
+    font-family: Kiona-Regular;
+    font-weight: 200;
+    color: #555555;
+    text-transform: uppercase;
+}
+
+.artistImage {
+    margin: 8px;
+    object-fit: cover;
+    height: 300px;
+    width: 300px;
+}
+
+.linkViewAlbum {
+    transition: ease-in-out .3s;
+    cursor: pointer;
+    font-family: Comfortaa-Regular;
+    width: 95%;
+    border: 0px;
+    font-size: 13px;
+    padding: 8px;
+    background-color: #eeeeee;
+    color: #839da5;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    text-decoration: none;
+}
+
+.linkViewAlbum:hover {
+    color: #5cffb3;
+    background-color: #3f3f3f;
+}
