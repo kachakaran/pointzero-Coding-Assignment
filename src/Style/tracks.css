@@ -1,0 +1,39 @@
+.track-list{
+    margin:8px;
+    border-radius: 10px;
+    padding:40px 0;
+    background-color: #f8f8f8;
+    
+}
+.list{
+   
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;    
+}
+.track{
+    border-bottom: 1px solid gray;
+    padding: 10px ;
+    text-align: left;
+    font-family: arial;
+    font-size: 22px;
+    color: #3f3f3f;
+    display: inline;
+}
+
+.t1{
+    margin: 3px;
+    color:#969696;
+    font-family: Kiona-Regular;
+    font-size: 17px;
+}
+@media only screen and (max-width:620px) {
+    /* For mobile phones: */
+    .track{
+        padding: 2px;
+        display: block;
+    }
+    .track-list{
+        margin-right: 60px;
+    }
+  }
