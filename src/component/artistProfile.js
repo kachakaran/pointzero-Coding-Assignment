@@ -1,7 +1,6 @@
 import React from 'react';
 import "../Style/artistProfile.css";
 import { connect } from 'react-redux';
-import image from '../asset/Image/spotify.png'
 
 
 const artistProfile = (props) => {

@@ -2,6 +2,8 @@ import React from 'react';
 import '../Style/trackLayout.css';
 import { actionModelHandler } from '../Action/action';
 import { connect } from "react-redux";
+import Tracks from './tracks';
+
 const trackLayout = (props) => {
     return (
         <div className="tracklayout">
@@ -27,7 +29,7 @@ const trackLayout = (props) => {
 
             </div>
             <div className="trackContainer">
-
+                <Tracks/>
             </div>
         </div>
 

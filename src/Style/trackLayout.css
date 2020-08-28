@@ -27,12 +27,10 @@
 }
 
 .profieContainer {
-    float: left;;
-    
+    float: left;    
     height: 100%;
     text-align:center;
     background-color: #232323;
-   
 }
 .profieContainer> div{   
     margin: 20px;
@@ -58,19 +56,30 @@
     font-size: 18px;
 }
 .t3{
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 120px;
     font-family: Kiona-Regular;
     color: #90f807;
     font-size: 18px;
 }
 .trackContainer{
-    
+    display: inline;
+    text-align: center;
     padding:0 20px;
-    background-color: wheat;
 }
 
 @media only screen and (max-width:620px) {
     /* For mobile phones: */
     .profieContainer{
+    text-align: center;
       display: flex;
+      height: 200px;
+      float: none; 
+      
     }
+    .profieContainer> div{       
+         margin: 30px 14px;       
+        }
   }
